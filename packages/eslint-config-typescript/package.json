@@ -1,0 +1,20 @@
+{
+  "name": "@dorayakijs/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "Dorayaki.js eslint typescript config",
+  "homepage": "https://github.com/dorayakijs/eslint-config/tree/master/packages/eslint-config-typescript",
+  "repository": "dorayakijs/eslint-config",
+  "license": "MIT",
+  "author": "NKDuy",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@dorayakijs/eslint-config": "2.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.32.0",
+    "@typescript-eslint/parser": "^2.32.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

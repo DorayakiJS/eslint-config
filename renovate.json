@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@dorayakijs"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "ignoreDeps": [
+    "eslint-plugin-import"
+  ]
+}

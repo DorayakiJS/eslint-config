@@ -1,6 +1,6 @@
 {
   "name": "@dorayakijs/eslint-config",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Dorayaki.js eslint config",
   "homepage": "https://github.com/dorayakijs/eslint-config/tree/master/packages/eslint-config",
   "repository": "dorayakijs/eslint-config",

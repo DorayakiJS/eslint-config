@@ -1,6 +1,6 @@
 {
   "name": "@dorayakijs/eslint-config-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dorayaki.js eslint typescript config",
   "homepage": "https://github.com/dorayakijs/eslint-config/tree/master/packages/eslint-config-typescript",
   "repository": "dorayakijs/eslint-config",
@@ -10,7 +10,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@dorayakijs/eslint-config": "2.0.0",
+    "@dorayakijs/eslint-config": "2.0.1",
     "@typescript-eslint/eslint-plugin": "^2.32.0",
     "@typescript-eslint/parser": "^2.32.0"
   },

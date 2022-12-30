@@ -69,8 +69,6 @@ And in your `.eslintrc` all you need is :
 You can then edit/override same rules as you could with `@dorayakijs/eslint-config` but also TypeScript rules.
 You can find the list of supported TypeScript rules [here](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin#supported-rules).
 
-Also see [Dorayaki TypeScript Support](https://typescript-dorayakijs.web.app/guide/lint.html).
-
 ## License
 
 Setup inspired by [eslint-config-standard](https://github.com/standard/eslint-config-standard)
